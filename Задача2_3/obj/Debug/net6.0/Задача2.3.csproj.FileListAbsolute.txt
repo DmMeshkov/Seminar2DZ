@@ -1,0 +1,15 @@
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\bin\Debug\net6.0\Задача2.3.exe
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\bin\Debug\net6.0\Задача2.3.deps.json
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\bin\Debug\net6.0\Задача2.3.runtimeconfig.json
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\bin\Debug\net6.0\Задача2.3.dll
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\bin\Debug\net6.0\Задача2.3.pdb
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\Задача2.3.csproj.AssemblyReference.cache
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\Задача2.3.GeneratedMSBuildEditorConfig.editorconfig
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\Задача2.3.AssemblyInfoInputs.cache
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\Задача2.3.AssemblyInfo.cs
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\Задача2.3.csproj.CoreCompileInputs.cache
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\Задача2.3.dll
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\refint\Задача2.3.dll
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\Задача2.3.pdb
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\Задача2.3.genruntimeconfig.cache
+B:\Git study\C#\ДЗсеминар2.2\Задача2.3\obj\Debug\net6.0\ref\Задача2.3.dll
